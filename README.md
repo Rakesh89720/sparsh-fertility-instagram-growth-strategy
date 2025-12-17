@@ -45,6 +45,11 @@ High-level explanation of how content, ads, and analytics were combined.
 - Used Computers Shop – Google & Meta Ads Lead Gen
 - Single Da Kohlu – Instagram Local Brand Growth
 
+📂 Full Case Studies: 
+[Notion link]([https://rakeshkumarprajapati.notion.site/2ccfa5ef22d98043b86dcdf6e9354266?v=2ccfa5ef22d980fcb716000c477123ce)]
+[Google Drive Link](https://drive.google.com/drive/folders/1s__oLCMc3o28EnwD0D0lyG3ihmCsJ_KS])
+
+
  
-## Detailed Case Study: [](https://rakeshkumarprajapati.notion.site/2ccfa5ef22d98043b86dcdf6e9354266?v=2ccfa5ef22d980fcb716000c477123ce)]
+## Detailed Case Study: 
 Google Drive: [](https://drive.google.com/drive/folders/1s__oLCMc3o28EnwD0D0lyG3ihmCsJ_KS)] 
