@@ -16,10 +16,20 @@ Briefly explain the client type, goal, and platform focus. Keep it non-confident
 High-level explanation of how content, ads, and analytics were combined.
 
 ## Tools & Technologies
-List tools only (no access details).
+- Google Ads
+- Meta Ads Manager
+- Google My Business
+- Canva AI
+- ChatGPT
+- Google Analytics
+- Meta Insights
 
-## Status
-Ongoing
+## Live Client Projects
+- Janta Hospital – Facebook & Meta Ads
+- Sparsh Fertility Hospital – Instagram Growth
+- Used Computers Shop – Google & Meta Ads Lead Gen
+- Single Da Kohlu – Instagram Local Brand Growth
 
+ 
 ## Detailed Case Study
-📂 Google Drive: [PASTE LINK HERE]
+Google Drive: [](https://drive.google.com/drive/folders/1s__oLCMc3o28EnwD0D0lyG3ihmCsJ_KS)] [](https://rakeshkumarprajapati.notion.site/2ccfa5ef22d98043b86dcdf6e9354266?v=2ccfa5ef22d980fcb716000c477123ce)] 
