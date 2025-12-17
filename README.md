@@ -1,52 +1,44 @@
-# Project Title
+# Social Media Marketing & Paid Ads – Live Client Projects
 
 ## Overview
-Briefly explain the client type, goal, and platform focus. Keep it non-confidential.
+This repository highlights my ongoing real-world client projects focused on
+brand promotion, social media growth, and lead generation.
+I work with hospitals, local businesses, and service brands using
+data-driven strategies, paid advertising, local SEO, and AI-powered tools
+to deliver measurable digital growth.
 
-## Objectives
-- Brand visibility
-- Engagement growth
-- Lead generation
-- Local discovery
+## Live Projects
+- Janta Hospital (Zirakpur) – Facebook Marketing & Meta Ads for healthcare brand promotion
+- Sparsh Fertility Hospital (Mathura) – Instagram reach growth using hashtag research and content strategy
+- Used Computers Shop (Goa) – Lead generation using Google Ads, Meta Ads & Google My Business
+- Single Da Kohlu (Patiala) – Instagram growth and local brand visibility using Google My Business
 
-## Google Ads Strategy
-- High-intent search campaigns
-- Local keyword targeting
-- Conversion-focused ad copy
+## Platforms & Channels
+- Instagram
+- Facebook
+- Meta Ads
+- Google Ads
+- Google My Business
 
-## Meta Ads Strategy
-- Local awareness + retargeting
-- Offer-based creatives
-- Lead form optimization
-
-## Google My Business Strategy
-- Profile optimization
-- Weekly posts
-- Review & photo updates
-
-## Platforms Used
-- Instagram / Facebook / Google / Google My Business (edit per project)
-
-## Strategy Summary
-High-level explanation of how content, ads, and analytics were combined.
+## Strategy Approach
+Each project follows a structured execution model including content planning,
+trend analysis, audience research, paid ads optimization, local discovery
+through Google My Business, and performance tracking using platform insights
+and analytics to improve reach, engagement, and conversions.
 
 ## Tools & Technologies
-- Google Ads
 - Meta Ads Manager
+- Google Ads
 - Google My Business
 - Canva AI
 - ChatGPT
+- Predis.ai
+- Metricool
 - Google Analytics
 - Meta Insights
 
-## Live Client Projects
-- Janta Hospital – Facebook & Meta Ads
-- Sparsh Fertility Hospital – Instagram Growth
-- Used Computers Shop – Google & Meta Ads Lead Gen
-- Single Da Kohlu – Instagram Local Brand Growth
+## Status
+Ongoing – Active client projects
 
-## Full Case Studies: 
-[Notion link]([https://rakeshkumarprajapati.notion.site/2ccfa5ef22d98043b86dcdf6e9354266?v=2ccfa5ef22d980fcb716000c477123ce])
- 
-## Detailed Case Study: 
-[Google Drive Link](https://drive.google.com/drive/folders/1s__oLCMc3o28EnwD0D0lyG3ihmCsJ_KS)] 
+## Detailed Case Studies & Proof of Work
+📂 Notion Portfolio:[](https://rakeshkumarprajapati.notion.site/2ccfa5ef22d98043b86dcdf6e9354266?v=2ccfa5ef22d980fcb716000c477123ce])
